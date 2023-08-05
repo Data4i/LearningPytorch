@@ -22,4 +22,4 @@
   - Used the make_circles data set from `sklearn.datasets.make_circles`
   - Perform Classification on it
 
-## *Happy Learnig 😁😉👌. Don't give up💪👍*
+## *Happy Learning 😁😉👌. Don't give up💪👍*
